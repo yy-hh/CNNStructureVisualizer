@@ -1,0 +1,5 @@
+{
+  "name": "NeuroLens - CNN Visualizer",
+  "description": "An interactive visualization tool for Convolutional Neural Network (CNN) kernels. Upload images, apply custom or preset convolution filters, and use Gemini AI to generate or explain kernels.",
+  "requestFramePermissions": []
+}
